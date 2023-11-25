@@ -1,0 +1,4 @@
+baseURL = 'https://amessofcables.com/'
+languageCode = 'en-us'
+title = 'A Mess of Cables'
+theme = 'risotto'
