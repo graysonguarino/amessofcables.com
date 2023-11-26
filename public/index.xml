@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Mess of Cables</title>
+    <link>https://amessofcables.com/</link>
+    <description>Recent content on A Mess of Cables</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 17:59:05 -0600</lastBuildDate>
+    <atom:link href="https://amessofcables.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It All Starts Here</title>
+      <link>https://amessofcables.com/posts/it-all-starts-here/</link>
+      <pubDate>Sat, 25 Nov 2023 17:59:05 -0600</pubDate>
+      <guid>https://amessofcables.com/posts/it-all-starts-here/</guid>
+      <description>It&amp;rsquo;s time. I&amp;rsquo;ve thought about starting some kind of blog/website for a while. My first website came in the form of a Freewebs (remember that?) site where I mainly posted embedded links to my favorite YouTube videos and Flash games at around age 9. Child me understood the joys of shouting into the void.
+So why is it that I, with a hard drive full of music, an assortment of hobbies, a plethora of (arguably bad) opinions, and a computer science degree don&amp;rsquo;t have a website now?</description>
+    </item>
+  </channel>
+</rss>
